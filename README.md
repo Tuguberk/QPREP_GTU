@@ -4,7 +4,7 @@
 
 **QTurkey İş Birliğiyle · 19–22 Nisan 2026**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuguberk/QPREP/blob/main/01_Pythona_Giris.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tuguberk/QPREP_GTU/blob/main/01_Pythona_Giris.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Qiskit](https://img.shields.io/badge/Qiskit-1.x-6929C4?logo=qiskit&logoColor=white)](https://qiskit.org)
@@ -17,9 +17,9 @@
 
 **Yeni Teknoloji Dalgasına Hazır Mısınız?**
 
-QTurkey iş birliğiyle düzenlediğimiz **Kuantum Hesaplamaya Giriş (QPREP)** atölyesinde, kuantum teknolojileri dünyasına ufuk açıcı bir adım atıyoruz. Bu özel atölye serisinde, kuantum alanına giriş yapmak için ihtiyaç duyacağınız temel konuları üniversitemizin kıymetli isimlerinden öğreneceksiniz.
+QTurkey iş birliğiyle düzenlenen **Kuantum Hesaplamaya Giriş (QPREP)** atölyesinde, kuantum teknolojileri dünyasına ufuk açıcı bir adım atılıyor. Bu özel atölye serisinde, kuantum alanına giriş yapmak için ihtiyaç duyulan temel konular üniversitemizin kıymetli isimlerinden öğrenilecek.
 
-Atölyemizin büyük finalini ise, daha ileri seviye eğitimlerine giriş niteliğinde **"Kuantum Hesaplamaya Giriş"** semineriyle yapacağız. Bu özel kapanışta **Sabancı Üniversitesi ve QTurkey'den Dr. Özlem Salehi Köken** bizlerle olacak!
+Atölyenin büyük finali, daha ileri seviye eğitimlerine giriş niteliğinde **"Kuantum Hesaplamaya Giriş"** semineriyle gerçekleştirilecek. Bu özel kapanışta **Sabancı Üniversitesi ve QTurkey'den Dr. Özlem Salehi Köken** bizlerle olacak!
 
 ---
 
@@ -32,7 +32,7 @@ Atölyemizin büyük finalini ise, daha ileri seviye eğitimlerine giriş niteli
 | 3 | 🗓 21 Nisan Pazartesi | **Lineer Cebir** | Dr. Tülay Ayyıldız | 📍 Malzeme Müh. D6 Amfi | ⏰ 17:00–19:00 |
 | 4 | 🗓 22 Nisan Salı | **Kuantum Hesaplamaya Giriş** | Dr. Özlem Salehi Köken | 📍 Bilg. Müh. Z23 Amfi | ⏰ 17:30–19:00 |
 
-> 📡 Amfilerde gerçekleştirilecek eğitimlere **hibrit olarak online** katılım sağlanabilecektir. Giriş linki etkinlik öncesi paylaşılacaktır.
+> 📡 Amfilerde gerçekleştirilen eğitimlere **hibrit olarak online** katılım sağlanabilecektir. Giriş linki etkinlik öncesi paylaşılacaktır.
 
 > 🎓 Etkinliğin **en az 3 gününe** katılanlara **katılımcı sertifikası** verilecektir.
 
@@ -42,7 +42,7 @@ Atölyemizin büyük finalini ise, daha ileri seviye eğitimlerine giriş niteli
 
 | # | Notebook | Konu | Colab |
 |:-:|:---|:---|:---:|
-| 01 | [01_Pythona_Giris.ipynb](01_Pythona_Giris.ipynb) | Python Temelleri, NumPy, Matplotlib, Qiskit'e İlk Bakış | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuguberk/QPREP/blob/main/01_Pythona_Giris.ipynb) |
+| 01 | [01_Pythona_Giris.ipynb](01_Pythona_Giris.ipynb) | Python Temelleri, NumPy, Matplotlib, Qiskit'e İlk Bakış | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tuguberk/QPREP_GTU/blob/main/01_Pythona_Giris.ipynb) |
 
 ---
 
@@ -50,24 +50,24 @@ Atölyemizin büyük finalini ise, daha ileri seviye eğitimlerine giriş niteli
 
 ### Seçenek 1: Google Colab (Önerilen — Kurulum Gerektirmez)
 
-Yukarıdaki **"Open in Colab"** butonuna tıklayın. Tarayıcınızda direkt çalışmaya başlayabilirsiniz!
+Yukarıdaki **"Open in Colab"** butonuna tıklayarak tarayıcıda direkt çalışmaya başlanabilir!
 
 ### Seçenek 2: Yerel Kurulum
 
 ```bash
-# Repoyu klonlayın
-git clone https://github.com/tuguberk/QPREP.git
-cd QPREP
+# Repo klonlanır
+git clone https://github.com/Tuguberk/QPREP_GTU.git
+cd QPREP_GTU
 
-# Sanal ortam oluşturun (önerilen)
+# Sanal ortam oluşturulur (önerilen)
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 # venv\Scripts\activate   # Windows
 
-# Gereksinimleri yükleyin
+# Gereksinimler yüklenir
 pip install -r requirements.txt
 
-# Jupyter'ı başlatın
+# Jupyter başlatılır
 jupyter notebook
 ```
 
@@ -81,26 +81,26 @@ jupyter notebook
 - Qiskit
 - Qiskit Aer
 
-Detaylı liste için [`requirements.txt`](requirements.txt) dosyasına bakınız.
+Detaylı liste için [`requirements.txt`](requirements.txt) dosyasına bakılabilir.
 
 ---
 
 ## 🏗️ Repo Yapısı
 
 ```
-QPREP/
+QPREP_GTU/
 ├── 01_Pythona_Giris.ipynb   # Modül 1: Python eğitim notebook'u
 ├── requirements.txt         # Python bağımlılıkları
 ├── README.md                # Bu dosya
 ├── LICENSE                  # MIT Lisans
-└── .gitignore               # Git tarafından yok sayılacak dosyalar
+└── .gitignore               # Git tarafından yok sayılan dosyalar
 ```
 
 ---
 
 ## 🤝 Katkıda Bulunma
 
-Hata bildirimi veya önerileriniz için lütfen bir [Issue](https://github.com/tuguberk/QPREP/issues) açın.
+Hata bildirimi veya öneriler için lütfen bir [Issue](https://github.com/Tuguberk/QPREP_GTU/issues) açılabilir.
 
 ---
 
@@ -112,6 +112,6 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 <div align="center">
 
-**QTurkey İş Birliğiyle** · Kuantum Geleceği Birlikte İnşa Ediyoruz ⚛️
+**QTurkey İş Birliğiyle** · Kuantum Geleceği Birlikte İnşa Ediliyor ⚛️
 
 </div>
