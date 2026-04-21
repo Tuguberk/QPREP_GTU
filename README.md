@@ -43,6 +43,7 @@ Atölyenin büyük finali, daha ileri seviye eğitimlerine giriş niteliğinde *
 | # | Notebook | Konu | Colab |
 |:-:|:---|:---|:---:|
 | 01 | [01_Pythona_Giris.ipynb](01_Pythona_Giris.ipynb) | Python Temelleri, NumPy, Matplotlib, Qiskit'e İlk Bakış | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tuguberk/QPREP_GTU/blob/main/01_Pythona_Giris.ipynb) |
+| 02 | [02_Lineer_Cebir.ipynb](02_Lineer_Cebir.ipynb) | Vektörler, Matrisler, Dot Product, Matris Çarpımı, Tensor Product | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tuguberk/QPREP_GTU/blob/main/02_Lineer_Cebir.ipynb) |
 
 ---
 
@@ -90,6 +91,7 @@ Detaylı liste için [`requirements.txt`](requirements.txt) dosyasına bakılabi
 ```
 QPREP_GTU/
 ├── 01_Pythona_Giris.ipynb   # Modül 1: Python eğitim notebook'u
+├── 02_Lineer_Cebir.ipynb    # Modül 2: Lineer Cebir notebook'u
 ├── requirements.txt         # Python bağımlılıkları
 ├── README.md                # Bu dosya
 ├── LICENSE                  # MIT Lisans
