@@ -13,6 +13,16 @@
 
 ---
 
+## 🙏 Teşekkürler
+
+Bu anlamlı atölyenin hayata geçmesindeki değerli eğitimleri ve rehberlikleri için saygıdeğer hocalarımız **[Dr. Tülay Ayyıldız](https://www.linkedin.com/in/tülay-ayyıldız-4b1672317/)** ve **[Dr. Özlem Salehi Köken](https://www.linkedin.com/in/ozlem-salehi/)**'e; 
+
+Kuantum ekosistemini destekleyen vizyonlarıyla iş birlikleri için **[QTürkiye](https://www.linkedin.com/company/qturkiye/posts/?feedView=all)**'ye;
+
+Organizasyon boyunca büyük emek ve özveri harcayarak bu harika atmosferin oluşmasını sağlayan **[Gebze Teknik Üniversitesi APS; Fizik, Astronomi ve Teknoloji Öğrenci Topluluğu](https://www.linkedin.com/company/gtuaps/)**'na sonsuz teşekkürlerimizi sunarız! 🌟
+
+---
+
 ## 🎯 Etkinlik Hakkında
 
 **Yeni Teknoloji Dalgasına Hazır Mısınız?**
@@ -44,6 +54,7 @@ Atölyenin büyük finali, daha ileri seviye eğitimlerine giriş niteliğinde *
 |:-:|:---|:---|:---:|
 | 01 | [01_Pythona_Giris.ipynb](01_Pythona_Giris.ipynb) | Python Temelleri, NumPy, Matplotlib, Qiskit'e İlk Bakış | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tuguberk/QPREP_GTU/blob/main/01_Pythona_Giris.ipynb) |
 | 02 | [02_Lineer_Cebir.ipynb](02_Lineer_Cebir.ipynb) | Vektörler, Matrisler, Dot Product, Matris Çarpımı, Tensor Product | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tuguberk/QPREP_GTU/blob/main/02_Lineer_Cebir.ipynb) |
+| 03 | [03_Kompleks_Sayilar_ve_Kuantum_Giris.ipynb](03_Kompleks_Sayilar_ve_Kuantum_Giris.ipynb) | Kompleks Sayılar ve Kuantum Hesaplamaya Giriş | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tuguberk/QPREP_GTU/blob/main/03_Kompleks_Sayilar_ve_Kuantum_Giris.ipynb) |
 
 ---
 
@@ -83,20 +94,6 @@ jupyter notebook
 - Qiskit Aer
 
 Detaylı liste için [`requirements.txt`](requirements.txt) dosyasına bakılabilir.
-
----
-
-## 🏗️ Repo Yapısı
-
-```
-QPREP_GTU/
-├── 01_Pythona_Giris.ipynb   # Modül 1: Python eğitim notebook'u
-├── 02_Lineer_Cebir.ipynb    # Modül 2: Lineer Cebir notebook'u
-├── requirements.txt         # Python bağımlılıkları
-├── README.md                # Bu dosya
-├── LICENSE                  # MIT Lisans
-└── .gitignore               # Git tarafından yok sayılan dosyalar
-```
 
 ---
 
