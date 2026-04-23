@@ -56,6 +56,10 @@ Atölyenin büyük finali, daha ileri seviye eğitimlerine giriş niteliğinde *
 | 02 | [02_Lineer_Cebir.ipynb](02_Lineer_Cebir.ipynb) | Vektörler, Matrisler, Dot Product, Matris Çarpımı, Tensor Product | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tuguberk/QPREP_GTU/blob/main/02_Lineer_Cebir.ipynb) |
 | 03 | [03_Kompleks_Sayilar_ve_Kuantum_Giris.ipynb](03_Kompleks_Sayilar_ve_Kuantum_Giris.ipynb) | Kompleks Sayılar ve Kuantum Hesaplamaya Giriş | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tuguberk/QPREP_GTU/blob/main/03_Kompleks_Sayilar_ve_Kuantum_Giris.ipynb) |
 
+### 📚 Sunumlar ve Kaynaklar
+
+- 📄 **[Kuantum Hesaplama - GTU.pdf](Kuantum%20Hesaplama%20-%20GTU.pdf)** — Dr. Özlem Salehi Köken tarafından "Kuantum Hesaplamaya Giriş" eğitiminde kullanılan sunum dosyası.
+
 ---
 
 ## 🚀 Hızlı Başlangıç
